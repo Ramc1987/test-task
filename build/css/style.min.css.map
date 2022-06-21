@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"style.min.css"}
+{"version":3,"sources":["global.scss","style.css"],"names":[],"mappings":"AAAA,KACE,WCCF,CDEA,KACE,QAAA,CACA,YAAA,CACA,gCAAA,CACA,eCCF","file":"style.min.css","sourcesContent":["html {\n  height: 100%;\n}\n\nbody {\n  margin: 0;\n  display: grid;\n  grid-template-rows: auto 1fr auto;\n  min-height: 100%;\n}\n","html {\n  height: 100%;\n}\n\nbody {\n  margin: 0;\n  display: grid;\n  grid-template-rows: auto 1fr auto;\n  min-height: 100%;\n}"]}
