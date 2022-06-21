@@ -1,0 +1,6 @@
+@mixin font-title($fs: 17px, $lh: 24px, $fw: 700) {
+  font-family: "Open Sans", "Arial", sans-serif;
+  font-weight: $fw;
+  font-size: $fs;
+  line-height: $lh;
+}
